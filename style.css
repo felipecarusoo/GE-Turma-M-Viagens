@@ -1,5 +1,16 @@
 body {
-    background-color: #000000;
-    color: #A594F9;
-    }
-    
+background-color: #000000;
+color: #A594F9;
+}
+
+section {
+background: rgb(145, 209, 225) ;
+padding-top: 80px;
+padding-bottom: 80px;
+display: flex;
+justify-content: center;
+}
+
+.chamada-texto {
+margin-right: 5%;
+}
