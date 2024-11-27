@@ -9,7 +9,7 @@ body {
         text-transform: uppercase;
     }
 
-    section {
+    .chamada {
     background: rgb(145, 209, 225) ;
     padding-top: 80px;
     padding-bottom: 80px;
@@ -25,6 +25,11 @@ body {
         height: 200px;  
     }
     
+    .categoria {
+        padding-left: 20px;
+        padding-right: 20px;
+    }
+
     .categoria-videos {
         display: flex;
         overflow-x: auto;
