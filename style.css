@@ -1,8 +1,14 @@
 body {
     background-color: #000000;
-    color: #A594F9;
+    color: rgb(28,19,114);
     }
     
+    header {
+        color: azure;
+        font-size: 30px;
+        text-transform: uppercase;
+    }
+
     section {
     background: rgb(145, 209, 225) ;
     padding-top: 80px;
