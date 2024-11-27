@@ -6,10 +6,7 @@ body {
     }
     
     header {
-        font-family: "Edu AU VIC WA NT Arrows", cursive;
-        font-optical-sizing: auto;
-        font-weight: <weight>;
-        font-style: normal;
+       font-family: "Edu AU VIC WA NT Arrows", cursive;
         color: azure;
         font-size: 30px;
         text-transform: uppercase;
